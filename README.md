@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1117,40:0d2818,80:1D9E75,100:0f1117&height=230&section=header&text=Ulug%CA%BBbek&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Electrical%20Engineer%20%7C%20AI%20Builder%20%7C%20Full-Stack%20Dev&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f1117,40:0d2818,80:1D9E75,100:0f1117&height=250&section=header&text=Ulug%CA%BBbek%20Karimov&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Electrical%20Engineer%20%7C%20AI%20Builder%20%7C%20Full-Stack%20Dev&descAlignY=60&descSize=17&animation=fadeIn&stroke=1D9E75&strokeWidth=2" />
 
 <br/>
 
@@ -9,31 +9,48 @@
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=1D9E75&center=true&vCenter=true&width=750&lines=Electrical+Eng+%E2%86%92+Building+software+that+thinks;Next.js+%E2%80%A2+Python+%E2%80%A2+Firebase+%E2%80%A2+Linux;Apartment+management%3F+Automated.+Power+grids%3F+Next.;Open+to+freelance%2C+remote+work+%26+internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=1D9E75&center=true&vCenter=true&width=800&lines=I+rewired+apartments.+Now+I'm+rewiring+industries.;EE+student.+AI+builder.+2AM+debugger.;From+Tashkent+%F0%9F%87%BA%F0%9F%87%BF+to+wherever+the+work+is+great.;Building+where+volts+meet+vectors.;FlatMate%3A+because+Google+Sheets+is+not+enough." alt="Typing SVG" />
 </a>
 
 </div>
 
 ---
 
-## 🧬 Who Am I?
+## ❯ whoami
 
-```python
-ukbalfa = {
-    "name":       "Ulugʻbek",
-    "based_in":   "Tashkent, Uzbekistan 🇺🇿",
-    "education":  "TIIAME NRU — Electrical Engineering & Mechatronics",
-    "building":   "AI-powered tools where electrical systems meet software",
-    "open_to":    ["🤝 Collaborations", "💼 Freelance", "🌍 Remote Work", "🎓 Internships"],
-    "next_stop":  ["🇨🇭 Switzerland", "🇩🇪 Germany", "🇯🇵 Japan"],
-    "languages":  ["Uzbek 🇺🇿 (native)", "English 🇬🇧 (fluent)"],
-    "off_screen": ["📚 Reading", "🤸 Calisthenics", "✈️ Travelling"],
-    "motto":      "If you want to win the lottery, you've got to make money to buy a ticket.",
-}
+```bash
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│   $ whoami                                                           │
+│   ❯  Ulugʻbek Karimov                                               │
+│      Electrical engineer who got tired of just studying              │
+│      electricity — so I started building software that understands   │
+│      it. Now I automate the boring parts of real life.               │
+│                                                                      │
+│   $ cat status.log                                                   │
+│   ❯  📍 Tashkent, Uzbekistan 🇺🇿                                     │
+│   ❯  🎓 TIIAME NRU — Electrical Engineering & Mechatronics           │
+│   ❯  🔨 Building FlatMate — apartment OS for real people             │
+│   ❯  🎯 Next: AI tools for power grids & PLC automation              │
+│   ❯  🤝 Open to: freelance · remote work · internships · collabs     │
+│                                                                      │
+│   $ echo $NEXT_DESTINATION                                           │
+│   ❯  🇨🇭 Switzerland   🇩🇪 Germany   🇯🇵 Japan                        │
+│                                                                      │
+│   $ cat .languages                                                   │
+│   ❯  Uzbek 🇺🇿 (native)   English 🇬🇧 (fluent)                       │
+│                                                                      │
+│   $ cat .life_outside_code                                           │
+│   ❯  📚 Reading   🤸 Calisthenics   ✈️ Travelling                    │
+│                                                                      │
+│   $ cat .motto                                                       │
+│   ❯  "If you want to win the lottery, you have to make               │
+│       the money to buy a ticket." — Lou Bloom, Nightcrawler          │
+│                                                                      │
+│   $ █                                                                │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
 ```
-
-> *"My motto is if you want to win the lottery, you've got to make money to buy a ticket."*
-> — **Lou Bloom**, Nightcrawler (2014)
 
 ---
 
@@ -116,29 +133,26 @@ ukbalfa = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ukbalfa&show_icons=true&theme=dark&bg_color=0f1117&title_color=1D9E75&icon_color=1D9E75&border_color=1a1d27&count_private=true&hide_border=false" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukbalfa&layout=compact&theme=dark&bg_color=0f1117&title_color=1D9E75&border_color=1a1d27&hide_border=false" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ukbalfa&show_icons=true&theme=dark&bg_color=0f1117&title_color=1D9E75&icon_color=1D9E75&border_color=1a1d27&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukbalfa&layout=compact&theme=dark&bg_color=0f1117&title_color=1D9E75&border_color=1a1d27" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ukbalfa&theme=dark&background=0f1117&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75&border=1a1d27&hide_border=false" />
+<img src="https://streak-stats.demolab.com?user=ukbalfa&theme=dark&background=0f1117&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75&border=1a1d27" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ukbalfa&bg_color=0f1117&color=1D9E75&line=1D9E75&point=ffffff&area=true&hide_border=true&area_color=1D9E7533" />
 
 </div>
 
 ---
 
-## 🎵 Now Playing
+## 🏆 Trophies
 
 <div align="center">
 
-<!--
-  ⚙️ SETUP: Deploy https://github.com/novatorem/novatorem to Vercel,
-  connect your Spotify account, then replace YOUR_SPOTIFY_UID below and uncomment.
--->
-
-<!-- ![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0f1117&interchange=false&bar_color=1D9E75) -->
-
-*Setting up Spotify widget... 🎧*
+<img src="https://github-profile-trophy.vercel.app/?username=ukbalfa&theme=darkhub&no-frame=true&row=1&column=6&margin-w=12&title=Stars,Commit,Repositories,Followers,PullRequest,Issues" />
 
 </div>
 
@@ -152,6 +166,22 @@ ukbalfa = {
 📱  Expanding FlatMate — more features, mobile-ready
 🌍  Working toward opportunities in Europe and Japan
 ```
+
+---
+
+## 🎵 Now Playing
+
+<div align="center">
+
+<!--
+  ⚙️ SETUP: Deploy https://github.com/novatorem/novatorem to Vercel,
+  connect your Spotify account, then replace YOUR_SPOTIFY_UID and uncomment.
+-->
+<!-- ![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0f1117&bar_color=1D9E75) -->
+
+*Setting up Spotify widget... 🎧*
+
+</div>
 
 ---
 
@@ -174,5 +204,5 @@ ukbalfa = {
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1117,40:0d2818,80:1D9E75,100:0f1117&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f1117,40:0d2818,80:1D9E75,100:0f1117&height=130&section=footer&reversal=true" />
 </div>
