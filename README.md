@@ -18,9 +18,9 @@
 
 <div align="center">
 
-**`[ BASE ]`** `Tashkent, UZ 🇺🇿` `→` `Target: Germany 🇩🇪`
+**`[ BASE ]`** `Tashkent, UZ 🇺🇿`
 **`[ DOMAIN ]`** `Electrical Engineering & Mechatronics @ TIIAME NRU`
-**`[ FOCUS ]`** `High-Performance Home Labs` `·` `Local LLMs` `·` `Full-Stack Architectures`
+**`[ FOCUS ]`** `Artificial Intelligence` `·` `Robotics` `·` `Software Engineering`
 
 </div>
 
