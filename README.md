@@ -20,6 +20,7 @@
 
 **`[ BASE ]`** `Tashkent, UZ 🇺🇿`
 **`[ DOMAIN ]`** `Electrical Engineering & Mechatronics @ TIIAME NRU`
+
 **`[ FOCUS ]`** `Artificial Intelligence` `·` `Robotics` `·` `Software Engineering`
 
 </div>
@@ -43,7 +44,6 @@
 
 **[ ENV & SYSTEMS ]**<br/>
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-0f1117?style=for-the-badge&logo=arch-linux&logoColor=1793d1)
-![Fedora](https://img.shields.io/badge/Fedora-0f1117?style=for-the-badge&logo=fedora&logoColor=51A2DA)
 ![Bash](https://img.shields.io/badge/Bash-0f1117?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-0f1117?style=for-the-badge&logo=git&logoColor=F05032)
 
